@@ -7,7 +7,7 @@
 // @match        https://www.reddit.com/promoted/
 // @match        https://pay.reddit.com/promoted/pay/*
 // @grant        none
-// @updateURL    https://dl.dropboxusercontent.com/u/3334782/redditadhanced.js
+// @updateURL    https://cdn.rawgit.com/julianh2o/RedditAdhanced/master/redditadhanced.user.js
 // @grant GM_xmlhttpRequest 
 // ==/UserScript==
 /* jshint -W097 */

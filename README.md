@@ -16,4 +16,5 @@ At the top of the page, you can select a payment method and default values for c
 
 I hope you find this useful, please feel free to submit pull requests and issues. I can't guarantee that I'll implement a full set of features, but I'll definitely look into any bugfixes.
 
+![Screenshot of the plugin in action](http://i.imgur.com/P9mDDMm.png)
 
